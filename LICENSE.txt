@@ -1,0 +1,3 @@
+MIT License
+
+Generated plugin for assessment and improvement.
